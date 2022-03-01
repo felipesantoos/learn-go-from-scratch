@@ -7,6 +7,7 @@ import (
 
 /*
  - Concurrency != paralelism.
+
  - Paralelism:
    - To execute one or more tasks at the same time.
    - It's possible with CPUs with more than one nucleus.
